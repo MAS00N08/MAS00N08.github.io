@@ -21,7 +21,7 @@ repository               : "MAS00N08/MAS00N08.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "500x300.png"
+  avatar           : "mason.jpg"
   name             : "Mason R. Holmes"
   pronouns         : "he/him"  
   bio              : "Programmer, guitarist, violist"
