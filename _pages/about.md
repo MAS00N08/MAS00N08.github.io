@@ -18,3 +18,9 @@ GPA Weighted: 4.42 GPA Unweighted: 3.81
 # Projects
 
 [Java Swing Application](https://github.com/MAS00N08/javaSwing)
+
+[Notes and Key Application](https://github.com/MAS00N08/notesGuide)
+
+[War Card Game](https://github.com/MAS00N08/warCards)
+
+[Welcome To Gameboard](https://github.com/MAS00N08/welcomeTo)
