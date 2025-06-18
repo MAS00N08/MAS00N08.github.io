@@ -17,10 +17,14 @@ GPA Weighted: 4.42 GPA Unweighted: 3.81
 
 # Projects
 
+Application that explains Java Swing and how you can use it to make an application:
 [Java Swing Application](https://github.com/MAS00N08/javaSwing)
 
+Application that helps with notes in a musical key:
 [Notes and Key Application](https://github.com/MAS00N08/notesGuide)
 
+War that plays automatically
 [War Card Game](https://github.com/MAS00N08/warCards)
 
+Functional Welcome To gameboard:
 [Welcome To Gameboard](https://github.com/MAS00N08/welcomeTo)
